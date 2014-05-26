@@ -4,7 +4,7 @@ LYToast
 Self-Adaption Text Toast And Image Toast For IOS
 
 
-Like Android Toast, This is For IOS, You Can Use Text Toast And Image Toast Like Below, It`s Easy To Use
+Like Android Toast, This is For IOS, You Can Use Text Toast And Image Toast Like Below, ARC And Non-ARC Support, It`s Easy To Use
 
      [LYMessageToast toastWithText:@"Pop Me In Current View\n\nWidth And Height Self-Adaption!"
                   backgroundColor:[UIColor blackColor]
